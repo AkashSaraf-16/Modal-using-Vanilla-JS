@@ -1,1 +1,1 @@
-# Modal-using-Vanilla-JS-
+# Modal-using-Vanilla-JS
